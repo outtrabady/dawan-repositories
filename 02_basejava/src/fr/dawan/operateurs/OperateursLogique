@@ -1,0 +1,7 @@
+Les operateurs logiques s'appliquent sur des opérandes booléens et produisent 
+un resultat qui est egalement booléen
+Java comporte trois éléments logiques, dont une unaire et deux binaires :  
+
+	ET: A&&B est vraie (true) Si A est vraie et B est vraie sinon c'est faux 
+	OU: A||B est vraie (true) si un des operandes est vraie sinon c'est faux
+	NON : !A ===> A est vraie alors !A est faux

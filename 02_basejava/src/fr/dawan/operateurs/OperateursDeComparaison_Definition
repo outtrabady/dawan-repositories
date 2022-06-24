@@ -1,0 +1,10 @@
+Opérateurs de comparaisons : 
+
+Pour vérifier les conditions, java propose plusieurs opérateurs de comparaison, 
+	> Permet de verifier si un nombre est superieur  à un autre nombre 
+	< Pour verifier si un nombre est inferieur à zero
+	== Pour verifier l'egalite entre deux nombres 
+	!= (different)  pour verifier si un nombre est different d'un autre nombre 
+	<= pour verifier si un nombre est inferieur ou egal à un autre nombre
+	>= pour verifier si un nombre est superieur à un autre nombre
+		
